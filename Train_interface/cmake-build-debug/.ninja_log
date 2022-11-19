@@ -1,0 +1,23 @@
+# ninja log v5
+1	522	6905658931610709	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+523	611	6905658932456943	Train_interface.exe	ba452e8ee964a1c1
+2	489	6905659347614500	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+489	559	6905659348292863	Train_interface.exe	ba452e8ee964a1c1
+2	495	6905664862970464	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+495	568	6905664863678570	Train_interface.exe	ba452e8ee964a1c1
+1	489	6905665236345273	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+489	558	6905665237013480	Train_interface.exe	ba452e8ee964a1c1
+1	438	6905671380111841	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+438	503	6905671380730187	Train_interface.exe	ba452e8ee964a1c1
+1	450	6905678877368205	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+451	518	6905678878006772	Train_interface.exe	ba452e8ee964a1c1
+2	440	6905681334507735	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+441	510	6905681335165967	Train_interface.exe	ba452e8ee964a1c1
+2	447	6905681659957414	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+447	514	6905681660585734	Train_interface.exe	ba452e8ee964a1c1
+2	499	6905767435563835	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+499	573	6905767436261693	Train_interface.exe	ba452e8ee964a1c1
+2	476	6905768495574059	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+477	546	6905768496252265	Train_interface.exe	ba452e8ee964a1c1
+1	485	6905779744635438	CMakeFiles/Train_interface.dir/main.cpp.obj	6b1e4bd5ce896ddf
+485	556	6905779745313628	Train_interface.exe	ba452e8ee964a1c1

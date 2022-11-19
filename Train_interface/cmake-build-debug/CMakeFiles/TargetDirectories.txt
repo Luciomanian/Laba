@@ -1,0 +1,3 @@
+D:/PR/git/LabaOOP/Laba/Train_interface/cmake-build-debug/CMakeFiles/Train_interface.dir
+D:/PR/git/LabaOOP/Laba/Train_interface/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PR/git/LabaOOP/Laba/Train_interface/cmake-build-debug/CMakeFiles/rebuild_cache.dir
