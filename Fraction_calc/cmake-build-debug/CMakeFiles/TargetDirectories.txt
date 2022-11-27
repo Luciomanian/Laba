@@ -1,0 +1,3 @@
+D:/PR/ProgBase_I/Project/Fraction_calc/cmake-build-debug/CMakeFiles/Fraction_calc.dir
+D:/PR/ProgBase_I/Project/Fraction_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PR/ProgBase_I/Project/Fraction_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
